@@ -68,8 +68,8 @@ strategy, with the peaks being our 'sell' signals.
 -While we did make a thousand or so dollars, we made a few thousand less than had we just held at our initial 'buy in' period. 
 ![testpt2](https://github.com/wfarah0/Eth_Capstone/blob/main/btest_pt2.PNG)
 ## Conclusion
-Despite our backtesting informing us that our current model does not have the ability to successfully daytrade, it **does** sucessfully safe entry and exit points
+Despite our backtesting informing us that our current model does not have the ability to successfully daytrade, it **does** successfully pinpoint safe entry and exit points
 for Ethereum investing compared to blind guessing. 
 
 **Consider** that in the months of August, September, and October (when ETH was on the downswing) our model **correctly** identifies price floors on 08/13, 09/11/, and 10/19. 
-So while I cannot recommend day trading, the model proves intself useful in providing insight on whether one should enter, or hold off on entering a long term position. 
+So while I cannot recommend day trading, the model proves itself useful in providing insight on whether one should enter, or hold off on entering a long term position. 
