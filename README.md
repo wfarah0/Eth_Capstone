@@ -47,7 +47,7 @@ Thus I shifted my strategy to a RandomForestRegression model.
 
 -Now we can apply our strongest feature to the model and attempt to predict
 ![forecast](https://github.com/wfarah0/Eth_Capstone/blob/main/frcast.PNG)
--We creat a split between out training and test data. 
+-We create a split between out training and test data. 
 
 -Training goes from start to August 2021. Test is August 2021 to December 2021.
 ![pt2](https://github.com/wfarah0/Eth_Capstone/blob/main/frcast_pt2.PNG)
