@@ -2,7 +2,7 @@
 
 *Ethereum is a crypto asset created by Vitalik Buterin in 2016 that has seen an astronomical explosion in value over the last two years (over 500%) 
 placing it next to bitcoin as the second major crypto asset on the market. But much like bitcoin, its price fluctuations can be erratic, and therefore difficult to predict. 
-While the traditional wisom for crypto trading has been to "buy and hold" this project attempts to model Ethereum's price movements to a degree that allows us to pinpoint optimal buy/sell/hold positions so as to optimize our long term profits.*
+While the traditional wisom for crypto trading has been to "buy and hold" this project attempts to model Ethereum's price movements to a degree that allows us to pinpoint optimal buy/sell/hold positions with the goal of optimizing our long term profits.*
 
 ## DATA
 
